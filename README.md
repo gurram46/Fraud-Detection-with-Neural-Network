@@ -48,6 +48,12 @@ The model's performance is evaluated using the AUC-ROC score. Additional evaluat
 ### **Contributing**
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or suggestions.
 
+
+### **Note on File Compression**
+The files has been compressed as it exceeded the 25MB limit for CSV files. To ensure it can be easily shared and processed, the file has been compressed into a ZIP format. Please extract the file before use.
+
+
+
 ### **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
